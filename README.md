@@ -4,7 +4,7 @@ This repo is to demonstrate how an Oraclize smart-contract is used in managing a
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clone https://github.com/vahiwe/Uptime-Verification-Oraclize.git`__
+__`❍ git clone https://github.com/flurryunicorn/Uptime-Verification-Oraclize.git`__
 
 **2)** Enter this directory & install dependencies:
 
@@ -49,13 +49,6 @@ __`❍ npm run dev `__
 ## :globe_with_meridians: ÐApp Homepage:
 
 ![ÐApp Homepage](homepage.jpg)
-
-&nbsp;
-
-## :information_source: Links:
-
-* Click [here](https://youtu.be/na_UsrvnQfw) to view a video on setting up the system
-* This is a [link](https://twitter.com/PROFXELFINITO/status/1141230082226364416?s=19) to images of the IoT Device used in keeping record of time
 
 &nbsp;
 
